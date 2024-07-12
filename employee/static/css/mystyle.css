@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #27374D! important;
+}
+.nav-link{
+    color: #9DB2BF ! important;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-link:hover{
+    color: #DDE6ED ! important;
+    background-color: #9DB2BF;
+    font-size: larger;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand{
+    font-weight: bold ! important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
